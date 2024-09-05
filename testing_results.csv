@@ -1,0 +1,7 @@
+model,result,error_message,image_with_lora,image_without_lora,time_taken_with,time_taken_without
+sdxl-turbo-mario-merge-top-rated,success,,generated_images\20240606_140135_sdxl-turbo-mario-merge-top-rated_with_lora.png,generated_images\20240606_140210_sdxl-turbo-mario-merge-top-rated_no_lora_added_without_lora.png,81.54997849464417,34.72598171234131
+dreamshaper-xl-lightning,success,,generated_images\20240606_140407_dreamshaper-xl-lightning_with_lora.png,generated_images\20240606_140531_dreamshaper-xl-lightning_no_lora_added_without_lora.png,63.31384563446045,84.09444832801819
+Juggernaut-XL-Lightning,success,,generated_images\20240606_141450_Juggernaut-XL-Lightning_with_lora.png,generated_images\20240606_142403_Juggernaut-XL-Lightning_no_lora_added_without_lora.png,238.3903889656067,552.7661979198456
+juggernaut-xl-v8,success,,generated_images\20240606_143335_juggernaut-xl-v8_with_lora.png,generated_images\20240606_143748_juggernaut-xl-v8_no_lora_added_without_lora.png,269.1467685699463,252.85143542289734
+Juggernaut-X-v10,success,,generated_images\20240606_144713_Juggernaut-X-v10_with_lora.png,generated_images\20240606_145148_Juggernaut-X-v10_no_lora_added_without_lora.png,281.4552435874939,275.5428190231323
+realism-engine-sdxl-v30,success,,generated_images\20240606_150050_realism-engine-sdxl-v30_with_lora.png,generated_images\20240606_150856_realism-engine-sdxl-v30_no_lora_added_without_lora.png,383.0325026512146,486.0341773033142
